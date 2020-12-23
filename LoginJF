@@ -194,9 +194,9 @@ public class LoginJF extends javax.swing.JFrame {
     private void btn3ActionPerformed(java.awt.event.ActionEvent evt) {                                     
         if(evt.getSource()==btn3)
             {
-                tf1.setText("lon040680");    //將文字框重設
-                tf2.setText("meyl780406");    //將文字框重設
-                tf3.setText("jdbc:mysql://db4free.net:3306/aellnchien_db");    //將文字框重設
+                tf1.setText("");    //將文字框重設
+                tf2.setText("");    //將文字框重設
+                tf3.setText("");    //將文字框重設
                 btn3.setEnabled(true); // 啟用 btn3 按鈕
             }
     }                                    
