@@ -1,0 +1,11 @@
+//另外呼叫 LoginJF 的方式 而不是使用既定主類別呼叫
+package Login;
+
+public class StartUP
+{
+    public static void main(String args[])
+    {
+        LoginJF log = new LoginJF();
+        log.LoginSwing();
+    }
+}
