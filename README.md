@@ -6,3 +6,7 @@ SWING 練習
 # 有呼叫新視窗方法
 # 有按鍵監聽的建立等..
 # 請自行參閱取用
+
+如要直接取用 請安裝 NETBEANS 8.2
+並記得安裝JDBC相應DRIVER的JAR檔案
+StarUP & LoginJF & SQLHome 三個檔案是一組的要一起使用
